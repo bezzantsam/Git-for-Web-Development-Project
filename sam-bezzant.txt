@@ -2,7 +2,9 @@
   
   
   1. What is Semantic HTML? 
-    2. What is HTML used for? To structure and convey content like writing and pictures
+  html that better explains what the tags contain
+    2. What is HTML used for? 
+    To structure and convey content like writing and pictures
     3. What is an attribute and where do we put it? 
     attributes give defining characteristics to our html. Like language attribute of english or an alt attribute describing a picture.
     4. What is the h1 tag used for? How many times should I use it on a page?
