@@ -1,8 +1,8 @@
   website codepen link : https://codepen.io/sam-bezzant/pen/porRpPX
   
   
-  1. What is Semantic HTML? 
-  html that better explains what the tags contain
+    1. What is Semantic HTML? 
+    Html that better explains what the tags contained within.
     2. What is HTML used for? 
     To structure and convey content like writing and pictures
     3. What is an attribute and where do we put it? 
