@@ -2,7 +2,7 @@
   
   
     1. What is Semantic HTML? 
-    Html that better explains what the tags contained within.
+    Html that better explains what the tags contained within
     2. What is HTML used for? 
     To structure and convey content like writing and pictures
     3. What is an attribute and where do we put it? 
